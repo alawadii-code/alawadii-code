@@ -9,7 +9,6 @@
 💻 Backend Developer  
 ⚙️ Building APIs & automation systems  
 🐧 Arch Linux user  
-☕ Powered by coffee and bad decisions  
 
 ---
 
