@@ -19,17 +19,6 @@
   <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,react,postgres,mysql,docker,linux,git" />
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
 
 ---
 
