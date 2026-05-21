@@ -11,11 +11,11 @@
 
 ### 👋 About me
 
-- 🚀 Backend developer with experience in **APIs, databases, and cloud services**
+- 🚀 Backend developer with experience in **APIs, databases**
 - 💼 **Actively looking for work** – full‑time, contract, or freelance
 - 🧠 Focus on clean architecture, performance, and security
-- 🔍 Ask me about: **Node.js, Python, Go, PostgreSQL, MongoDB, Redis, Docker, REST, GraphQL**
-- 📫 **Reach me directly**: `your.email@example.com`
+- 🔍 Ask me about: **java, sql, linux, back-end**
+- 📫 **Reach me directly**: `alawadi.code@gmail.com`
 
 ---
 
