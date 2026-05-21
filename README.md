@@ -1,102 +1,73 @@
-<!-- ===================== BANNER ===================== -->
+<!-- Banner image (replace YOUR_BANNER_IMAGE_URL with your actual image link) -->
 <p align="center">
-  <img src="https://i.imgur.com/YOUR_BANNER.png" alt="Backend Banner" width="100%" />
+  <img src="YOUR_BANNER_IMAGE_URL" alt="Backend Banner" width="100%" />
 </p>
 
-<!-- ===================== NAME + TITLE ===================== -->
+<!-- Optional profile picture + name -->
 <h1 align="center">
-  🔧 Mohamed El3aody | Backend Developer
+  <img src="YOUR_PROFILE_PICTURE_URL" width="100" height="100" style="border-radius:50%;" /><br/>
+  🔧 Backend Developer | Open for work
 </h1>
 
-<h3 align="center">
-Building scalable APIs, systems, and automation that actually work.
-</h3>
+<h3 align="center">Building reliable, scalable systems — let me help with yours</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E9AFE&center=true&vCenter=true&width=600&lines=Backend+Developer;API+Builder;Database+Engineer;Linux+Enthusiast;Coffee+Powered+Coder" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E9AFE&center=true&vCenter=true&width=500&lines=Java+%7C+SQL+%7C+Linux;APIs+%7C+Databases+%7C+Clean+architecture" alt="Backend focus" />
 </p>
 
 ---
 
-## 👋 About Me
+### 👋 About me
 
-- 🚀 Backend developer focused on **APIs, databases, and system design**
-- ⚙️ I build scalable backend systems & automation tools
-- 🐧 Linux user (Arch btw)
-- 💼 Open to freelance / full-time opportunities
-- 🧠 Passionate about clean architecture & performance
-- 📫 Contact: **youremail@gmail.com**
+- 🚀 Backend developer with experience in **APIs, databases, and Linux environments**
+- 💼 **Actively looking for work** – full‑time, contract, or freelance
+- 🧠 Focus on clean architecture, performance, and security
+- 🔍 Ask me about: **Java, SQL, Linux, backend architecture**
+- 📫 Reach me directly: **alawadi.code@gmail.com**
 
 ---
 
-## 🛠 Tech Stack
+### 📂 See my work 👇
+
+> 💡 **I invite you to explore my pinned repositories below.**  
+> They show real backend projects: API design, database modeling, authentication, background jobs, and more.  
+>  
+> **No fluff – just code that works in production.**
+
+🔎 *Want to see something specific?* [Open an issue](https://github.com/YOUR_USERNAME/YOUR_USERNAME/issues) or email me — I'm happy to share more.
+
+---
+
+### 🛠️ Backend stack
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+</p>
+
+> *Also comfortable with: Python, Go, Node.js, MongoDB, Redis, AWS (basics)*
+
+---
+
+### 📊 GitHub stats (optional)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,react,js,ts,postgres,mysql,docker,linux,git,redis" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide=stars" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark" alt="Top Languages" width="45%" />
 </p>
 
 ---
 
-## 🚀 What I Do
+### 📬 Let’s talk
 
-- 🔹 Backend Development (.NET / Java Spring)
-- 🔹 REST / API Design
-- 🔹 Database Design (SQL Server / PostgreSQL)
-- 🔹 System Integration (Shopify / Odoo / automation)
-- 🔹 Linux server management
-- 🔹 Performance optimization
+If you're hiring or have a project in mind:
 
----
+- 📧 **Email**: alawadi.code@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" width="48%" />
-</p>
-
----
-
-## 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
----
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 📌 Featured Projects
-
-- 🔗 URL Shortener System (React + .NET + SQL Server)
-- 🛒 Shopify ↔ Odoo Integration System
-- 🤖 Automation tools for business workflows
-- ⚙️ Backend APIs with authentication & roles
-
----
-
-## 📬 Contact Me
-
-<p align="center">
-  <a href="mailto:youremail@gmail.com">Email</a> •
-  <a href="https://linkedin.com/in/YOUR_PROFILE">LinkedIn</a> •
-  <a href="https://github.com/YOUR_USERNAME">GitHub</a>
-</p>
-
----
-
-## ⚡ Fun Zone
-
-```bash
-while(true) {
-  code();
-  debug();
-  coffee++;
-}
+**I’m ready to start. Check my repos, then reach out.**
