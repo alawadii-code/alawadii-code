@@ -59,16 +59,6 @@
 
 ---
 
-### 📂 See My Work 👇
-
-> 💡 **I invite you to explore my pinned repositories below.** > They showcase real-world backend projects: API design, database modeling, authentication, background jobs, and more.  
->  
-> **No fluff – just code that works in production.**
-
-🔎 *Want to see something specific?* Feel free to open an issue in my profile repository or shoot me an email — I'm happy to share more.
-
----
-
 ### 📬 Let’s Connect
 
 If you're hiring or have a project in mind, I'm ready to start. Check out my repos, then reach out:
