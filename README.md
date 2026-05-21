@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://pin.it/1LsHCJGAh" alt="Backend Architecture Banner" width="100%" style="border-radius: 10px;" />
+  <img src="https://share.google/ydgcU1Fmmfl3vUxhB" alt="Backend Architecture Banner" width="100%" style="border-radius: 10px;" />
 </p>
 
 <h1 align="center">
