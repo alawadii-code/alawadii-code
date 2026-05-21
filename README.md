@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://share.google/ydgcU1Fmmfl3vUxhB" alt="Backend Architecture Banner" width="100%" style="border-radius: 10px;" />
+  <img src="https://via.placeholder.com/1280x400?text=Backend+Developer+%7C+Open+for+Work" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">
