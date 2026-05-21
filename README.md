@@ -26,7 +26,7 @@
 >  
 > **No fluff – just code that works in production.**
 
-🔎 *Want to see something specific?* [Open an issue](https://github.com/YourUsername/YourUsername/issues) or email me — I'm happy to share more.
+🔎 *Want to see something specific?*
 
 ---
 
