@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?q=80&w=2000&auto=format&fit=crop" alt="Backend Architecture Banner" width="100%" style="border-radius: 10px;" />
+  <img src="https://pin.it/1LsHCJGAh" alt="Backend Architecture Banner" width="100%" style="border-radius: 10px;" />
 </p>
 
 <h1 align="center">
@@ -67,15 +67,6 @@
 > **No fluff – just code that works in production.**
 
 🔎 *Want to see something specific?* Feel free to open an issue in my profile repository or shoot me an email — I'm happy to share more.
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alawadicodes&show_icons=true&theme=transparent&hide_border=true&title_color=2E9AFE" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alawadicodes&layout=compact&theme=transparent&hide_border=true&title_color=2E9AFE" alt="Top Languages" width="48%"/>
-</p>
 
 ---
 
