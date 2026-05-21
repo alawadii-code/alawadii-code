@@ -1,29 +1,11 @@
-# Hi there 👋 I'm Mohamed
+<div align="center">
+  <h1>Hey, I'm Mohamed 👋</h1>
+  
+  <h3>Backend Developer | Professional Coffee-to-Code Converter ☕ → 💻</h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&width=435&lines=Backend+Developer;Linux+Enjoyer;API+Builder;Coffee+Powered+Engineer" />
+  <p>
+    I make the invisible parts of apps actually work.<br>
+    While the frontend gets all the likes, I'm in the backend fighting bugs at 3 AM so everything doesn't explode.
+  </p>
 
----
-
-## 🚀 About Me
-
-💻 Backend Developer  
-⚙️ Building APIs & automation systems  
-🐧 Arch Linux user  
-
----
-
-## 🛠 Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,react,postgres,mysql,docker,linux,git" />
-</p>
-
-
----
-
-## 🧠 Current Status
-
-```bash
-Coding...
-Debugging...
-Still debugging... 
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2x0Z3J6b2J3eXJ3b3J0a2Z6eW1zZ2Z2b2F4c2V5a2F3c2V5a2F3c2V5a2F3c2V5a2F3c2V5a2F3c2V5a2F3c2V5a2F3c2V5a2F3c2V5a2F3c2V5a2F3c2V5a2F3c2V5a2F3c2V5a2F3c2V5a2F3c2V5a2F3c2V5a2F3c2V5a2F3c2V5a2F3c2V5a2F3c2V5a2F3c2V5a2F3c2V5a2F3c2V5a2F3c2V5a2F3c2V5a2F3c2V5a2F3c2V5a2F3c2V5a2F3c2V5a2F3c2V5a2F3c2V5a2F3c2V5a2F3c2V5a2F3c2V5a2F3c2V5a2F3c2V5a2F3c2V5a2F3c2V5a2F3c2V5a2F3c2V5a2F3c2V5a2F3c2V5a2F3c2V5a2F3c2V5a2F3c2V5a2F3c2V5a2F3c2V5a2F3c2V5a2F3c2V5a2F3c2V5a2F3c2V5a2F3c2V5a2F3c2V5a2F3c2V5a2F3c2V5a2F3c2V5a2F3c2V5a2F3c2V5a2F3c2V5a2F3c2V5a2F3c2V5a2F3c2V5a2F3c2V5a2F3c2V5a2F3c2V5a2F3c2V5a2F3c2V5a2F3c2V5a2F3c2V5a2F3c2V5a2F3c2V5a2F3c2V5a2F3
