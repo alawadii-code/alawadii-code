@@ -42,24 +42,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
 </p>
-
----
-
-### 📊 GitHub activity (optional)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dark&hide=stars" alt="Stats" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=dark" alt="Top langs" width="45%" />
-</p>
-
 ---
 
 ### 📬 Let’s talk
 
 If you're hiring or have a project in mind:
 
-- 📧 **Email**: `your.email@example.com`
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 🐦 [Twitter](https://twitter.com/yourhandle)
+- 📧 **Email**: `alawadi.code@gmail.com`
+- 💼 [LinkedIn](https://www.linkedin.com/in/mohamed-al-awadi-a121b12b9/)
 
 **I’m ready to start. Check my repos, then reach out.**
