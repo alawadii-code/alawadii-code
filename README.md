@@ -1,8 +1,5 @@
 <img width="734" height="354" alt="{EF67D7DC-084B-41D7-9590-0FAF63F47FE4}" src="https://github.com/user-attachments/assets/a1ecbfea-ab47-49f4-811c-fcc0e331c106" />
-<img width="736" height="737" alt="{529E10F7-0A94-49EC-A3F6-A0C09EFD302B}" src="https://github.com/user-attachments/assets/72eae408-7067-42c3-b81e-9f2006fd79bd" />
-<p align="center">
-  <img src="https://via.placeholder.com/1280x400?text=Backend+Developer+%7C+Open+for+Work" alt="Banner" width="100%" />
-</p>
+
 
 <h1 align="center">
   Hi there, I'm Mohamed Al-Awadi 👋
