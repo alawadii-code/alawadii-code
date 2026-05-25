@@ -5,7 +5,7 @@
 </p>
 
 <!-- Header -->
-<h1 align="center">Hi there, I'm Mohamed Al-Awadi 👋</h1>
+<h1 align="center">Hi there, I'm Al-Awadi 👋</h1>
 <h3 align="center">🔧 Backend Developer | Building scalable, reliable systems</h3>
 
 <!-- Badges -->
