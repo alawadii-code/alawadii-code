@@ -1,6 +1,7 @@
+
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/711d5d50-c049-4f49-9d8d-e2a132f5067a" alt="Banner" width="100%" />
+ <img width="626" height="285" alt="Baby, nothing comes for free" src="https://github.com/user-attachments/assets/c186120d-cc5a-4535-aced-8c8a162eecd1" />
 </p>
 
 <!-- Header -->
