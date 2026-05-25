@@ -1,7 +1,8 @@
 
+
 <!-- Banner -->
 <p align="center">
- <img width="626" height="285" alt="Baby, nothing comes for free" src="https://github.com/user-attachments/assets/c186120d-cc5a-4535-aced-8c8a162eecd1" />
+<img width="1400" height="500" alt="Japonisme-France-1b" src="https://github.com/user-attachments/assets/f8b2b473-2cbf-440b-8a8d-f422defec973" />
 </p>
 
 <!-- Header -->
